@@ -12,7 +12,7 @@
 <script src="{{ "js/gmaps.init.js" | relURL }}"></script>
 {{ end }}
 {{ if and .Site.Params.enableRecaptchaInContactForm .Site.Params.googleRecaptchaKey }}
-<script src="//www.google.com/recaptcha/api.js" async defer></script>
+<script src="//www.google.com/recaptcha/api.js?" async defer></script>
 {{ end }}
 <script src="{{ "js/front.js" | relURL }}"></script>
 

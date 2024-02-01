@@ -128,7 +128,7 @@ pluralizelisttitles = false
     #   6. enter site key into `googleRecaptchaKey` to enable a recaptcha widget in your page.
     #
     enableRecaptchaInContactForm = true
-    googleRecaptchaKey = "6LfS1GIpAAAAAHvPrxyr2jxs8aWEJ-YNbKMmbLSr"
+    googleRecaptchaKey = "6Ldy12IpAAAAALpN0O6QGUW6sgylP4C-qv8Ogwfd"
 
     about_us = "<p>We build future</p>"
     copyright = "Copyright (c) 2024, Kabbur Technologies; all rights reserved."
