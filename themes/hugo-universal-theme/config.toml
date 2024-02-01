@@ -31,9 +31,15 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Projects"
-    identifier = "menu.features"
+    identifier = "projects"
     url        = "/projects/"
     weight     = 3
+
+[[menu.main]]
+    name       = "Company"
+    identifier = "company"
+    url        = "/company/"
+    weight     = 4
 
 [[menu.main]]
     identifier = "contact"
