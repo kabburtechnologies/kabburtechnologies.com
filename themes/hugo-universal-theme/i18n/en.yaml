@@ -55,6 +55,9 @@
 - id: authorBy
   translation: "By"
 
+- id: stack
+  translation: "Stack: "
+
 - id: recentPosts
   translation: "Recent posts"
 

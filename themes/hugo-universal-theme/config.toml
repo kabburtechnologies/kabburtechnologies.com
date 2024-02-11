@@ -31,9 +31,10 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Projects"
-    identifier = "projects"
+    identifier = "menu.projects"
     url        = "/projects/"
     weight     = 3
+
 
 [[menu.main]]
     name       = "Company"
@@ -84,7 +85,7 @@ pluralizelisttitles = false
     viewMorePostLink = "/blog/"
     author = "Kabbur Technologies"
     defaultKeywords = ["Kabbur Technologies", "IOT", "python"]
-    mainSections = ["blog"]
+    mainSections = ["projects", "blog"]
     defaultDescription = "We build future."
 
     # Social media
@@ -162,6 +163,7 @@ pluralizelisttitles = false
 
 [permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
+    projects = "/projects/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
@@ -217,10 +219,10 @@ pluralizelisttitles = false
 [params.see_more]
     enable = true
     icon = "far fa-file-alt"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    title = "Do you want to know more about us?"
+    subtitle = "We have developed more than 40 projects."
+    link_url = "/projects"
+    link_text = "Check our projects"
 
 [params.clients]
     enable = true
