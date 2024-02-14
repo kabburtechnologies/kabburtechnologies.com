@@ -2046,6 +2046,7 @@ fieldset[disabled] .btn-template-primary.active {
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
+  border-radius: 5px;
 }
 @media (max-width: 767px) {
   #blog-listing-big .post .image img.img-responsive,
@@ -2104,7 +2105,7 @@ fieldset[disabled] .btn-template-primary.active {
   }
 }
 #blog-listing-medium .post .intro {
-  text-align: left;
+  text-align: justify;
 }
 #blog-listing-medium .post .clearfix:before,
 #blog-listing-medium .post .clearfix:after,
@@ -2137,6 +2138,7 @@ fieldset[disabled] .btn-template-primary.active {
 #blog-listing-medium .post .image {
   margin-bottom: 10px;
   overflow: hidden;
+  border-radius: 10px;
 }
 #blog-listing-medium .post .image img {
   -webkit-transition: all 0.2s ease-out;

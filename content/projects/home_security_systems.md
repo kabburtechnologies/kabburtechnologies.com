@@ -1,6 +1,6 @@
 +++
 title = "Home Security System"
-date = "2023-09-01T21:29:20+02:00"
+date = "2023-10-01T21:29:20+02:00"
 tags = ["golang", "programming", "theme", "hugo"]
 categories = ["programming","lorem","pseudo"]
 banner = "img/projects/home_security_systems.jpeg"
