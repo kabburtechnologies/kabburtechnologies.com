@@ -3,9 +3,8 @@ title = "Violab's Vehicle Controller"
 date = "2023-11-01T21:29:20+02:00"
 tags = ["golang", "programming", "theme", "hugo"]
 categories = ["programming","lorem","pseudo"]
-banner = "img/projects/vehicle_controller_1.jpeg"
+banner = "img/projects/bg/vehicle_controller_1.png"
 authors = ["Chetan"]
-stack = []
 +++
 Violab's Vehicle Controller is a sophisticated control unit designed for vehicles, particularly those used in transportation or logistics. It incorporates various sensors, including temperature and humidity sensors, to monitor environmental conditions inside the vehicle. 
 

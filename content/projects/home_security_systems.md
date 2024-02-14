@@ -3,9 +3,8 @@ title = "Home Security System"
 date = "2023-10-01T21:29:20+02:00"
 tags = ["golang", "programming", "theme", "hugo"]
 categories = ["programming","lorem","pseudo"]
-banner = "img/projects/home_security_systems.jpeg"
+banner = "img/projects/bg/home_security_systems.png"
 authors = ["Chetan"]
-stack = []
 +++
 
 This system is designed to provide comprehensive security for homes. It employs several sensors, including Passive Infrared (PIR) motion sensors and door sensors, strategically placed around the premises. 

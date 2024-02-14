@@ -3,9 +3,8 @@ title = "Spraying Vehicle for Farming"
 date = "2023-12-01T21:29:20+02:00"
 tags = ["golang", "programming", "theme", "hugo"]
 categories = ["programming","lorem","pseudo"]
-banner = "img/projects/spraying_vehicle.jpg"
+banner = "img/projects/bg/spraying_vehicle.png"
 authors = ["Chetan"]
-stack = []
 +++
 
 This project focuses on the development of an advanced agricultural vehicle equipped with a pesticide spraying system for crop protection. The vehicle, powered by electric motors for eco-friendliness and efficiency, features a robust four-wheel design optimized for stability and mobility across various types of terrain commonly found in agricultural settings. Unlike traditional manual spraying methods, which can be labor-intensive and imprecise, this automated spraying vehicle offers a highly efficient and accurate solution for applying pesticides to crops.

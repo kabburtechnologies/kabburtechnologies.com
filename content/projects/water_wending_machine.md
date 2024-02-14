@@ -3,9 +3,8 @@ title = "Water Vending Machine for Public Sector"
 date = "2023-10-01T21:29:20+02:00"
 tags = ["golang", "programming", "theme", "hugo"]
 categories = ["programming","lorem","pseudo"]
-banner = "img/projects/water_vending_machine.jpeg"
+banner = "img/projects/bg/water_vending_machine.png"
 authors = ["Chetan"]
-stack = []
 +++
 
 This project aims to address the need for convenient and accessible water dispensing in public areas.

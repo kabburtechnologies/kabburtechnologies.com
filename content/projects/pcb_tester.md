@@ -5,7 +5,6 @@ tags = ["golang", "programming", "theme", "hugo"]
 categories = ["programming","lorem","pseudo"]
 banner = "img/projects/pcb_tester.jpeg"
 authors = ["Chetan"]
-stack = []
 +++
 
 Developed specifically for Millennium Semiconductor Company, the PCB tester is a specialized device used for quality assurance and fault detection in printed circuit boards (PCBs).
