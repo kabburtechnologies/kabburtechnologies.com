@@ -1,0 +1,9 @@
+weight: 2
+title: "Embedded systems"
+description: >
+  <ul class="list-style-none">
+    <li>PCB Design</li>
+    <li>Raseberry Pi</li>
+    <li>IOT</li>
+  </ul>
+image: "img/carousel/embedded.svg"

@@ -1,0 +1,9 @@
+weight: 3
+title: "Web development"
+description: >
+  <ul class="list-style-none">
+    <li>Backend Development</li>
+    <li>Frontend Development</li>
+    <li>Mobile Apps</li>
+  </ul>
+image: "img/carousel/backend.svg"
