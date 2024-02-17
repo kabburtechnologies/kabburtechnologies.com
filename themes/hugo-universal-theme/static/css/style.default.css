@@ -1,13 +1,13 @@
 /* Themed colors */
 :root {
-  --primary-accent: #38a7bb;
-  --navbar-border-top: #20616d;
-  --button-border: #2a7d8c;
-  --link-focus: #267280;
+  --primary-accent: #242582;
+  --navbar-border-top: #553D67;
+  --button-border: #F64C72;
+  --link-focus: #2F2FA2;
   --form-shadow: rgba(56, 167, 187, 0.6);
   --pagination-bg: #a7dbe5;
-  --link-hover-bg: #2c8494;
-  --navbar-focus: #80cbd9;
+  --link-hover-bg: #99738E;
+  --navbar-focus: #2F2FA2 ;
 }
 
 .clearfix:before,
@@ -1793,6 +1793,21 @@ fieldset[disabled] .btn-template-primary.active {
   background-attachment: fixed;
   background-size: cover;
 }
+
+.bar.background-image-fixed-earth {
+  background: url('../img/bg/bg9.jpg') #242582 center top no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  /* opacity: 0.9; */
+}
+
+.bar.background-image-fixed-journey {
+  background: url('../img/bg/bg11.jpg') center center no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  /* opacity: 0.7; */
+}
+
 .bar.color-white h1,
 .bar.color-white h2,
 .bar.color-white h3,
@@ -1801,6 +1816,7 @@ fieldset[disabled] .btn-template-primary.active {
 .bar.color-white h6,
 .bar.color-white p {
   color: #fff;
+  font-weight: bold;
 }
 .bar.padding-big {
   padding: 50px 0;
@@ -1819,7 +1835,7 @@ fieldset[disabled] .btn-template-primary.active {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #000;
+  background: var(--button-border);
   opacity: 0.3;
   filter: alpha(opacity=30);
 }
@@ -2528,9 +2544,9 @@ fieldset[disabled] .btn-template-primary.active {
   margin: 0 0 20px;
 }
 #footer {
-  background: #555555;
+  background: var(--primary-accent);
   padding: 50px 0;
-  color: #999999;
+  color: #FFFFFF;
 }
 #footer h1,
 #footer h2,
@@ -2538,7 +2554,7 @@ fieldset[disabled] .btn-template-primary.active {
 #footer h4,
 #footer h5,
 #footer h6 {
-  color: #eeeeee;
+  color: var(--button-border);
 }
 #footer h4 {
   font-size: 14px;
@@ -3080,7 +3096,7 @@ fieldset[disabled] .btn-template-primary.active {
   }
 }
 .navbar-default {
-  background-color: #ffffff;
+  background-color: var(--primary-accent);
   border-color: #cccccc;
   border-bottom: none;
 }

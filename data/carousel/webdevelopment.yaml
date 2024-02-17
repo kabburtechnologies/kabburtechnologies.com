@@ -1,9 +1,17 @@
 weight: 3
-title: "Web development"
+title: "Software Solutions"
 description: >
   <ul class="list-style-none">
-    <li>Backend Development</li>
-    <li>Frontend Development</li>
-    <li>Mobile Apps</li>
+    <li>Software Design and Architecture
+        Application Development (Web, Mobile, Desktop)
+        Custom Software Solutions
+        Software Integration and Deployment
+        Quality Assurance and Testing
+        User Interface (UI) and User Experience (UX) Design
+        Database Design and Management
+        Cloud Computing Solutions
+        Cybersecurity Services
+        Software Maintenance and Support
+  </li>
   </ul>
 image: "img/carousel/backend.svg"

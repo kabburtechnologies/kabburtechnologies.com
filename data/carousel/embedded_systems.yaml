@@ -1,9 +1,17 @@
 weight: 2
-title: "Embedded systems"
+title: "Hardware Solutions"
 description: >
   <ul class="list-style-none">
-    <li>PCB Design</li>
-    <li>Raseberry Pi</li>
-    <li>IOT</li>
+    <li>Hardware Design and Development</li>
+    <li>Prototype Fabrication</li>
+    <li>Component Sourcing and Procurement</li>
+    <li>Hardware Testing and Quality Assurance</li>
+    <li>Product Assembly and Integration</li>
+    <li>Technical Support and Maintenance</li>
+    <li>Custom Hardware Solutions</li>
+    <li>System Optimization and Performance Enhancement</li>
+    <li>Hardware Upgrades and Migration</li>
+    <li>IoT (Internet of Things) Device Development</li>
+    
   </ul>
 image: "img/carousel/embedded.svg"

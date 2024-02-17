@@ -1,9 +1,5 @@
 weight: 1
-title: "What We offer"
+title: "Celebrating Innovation"
 description: >
-  <ul class="list-style-none">
-    <li>Web Development</li>
-    <li>IOT & Embedded Systems</li>
-    <li>Mobile Apps</li>
-  </ul>
+  <p>Our success is fueled by top-tier talent, delivering specialized engineering and science solutions for your hardware and software needs. Through tailored services, we advance your projects, turning your vision into reality.</p>
 image: "img/carousel/se.svg"

@@ -3078,7 +3078,7 @@ fieldset[disabled] .btn-template-primary.active {
   }
 }
 .navbar-default {
-  background-color: #ffffff;
+  background-color: var(--primary-accent);
   border-color: #cccccc;
   border-bottom: none;
 }

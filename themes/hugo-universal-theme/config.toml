@@ -37,7 +37,7 @@ pluralizelisttitles = false
 
 
 [[menu.main]]
-    name       = "Company"
+    name       = "About Us"
     identifier = "company"
     url        = "/company/"
     weight     = 4
@@ -152,12 +152,10 @@ pluralizelisttitles = false
     logo_small = "img/logo-small.png"
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>Kabbur Technologies</strong>
-        <br>10, Jawan Quarters
-        <br>Subhash Nagar
-        <br>Belgavi
-        <br>Karnataka - 590016
+        <br>Wing D, Phase 4, IT Sector
+        <br>Pimple Gurav, Pune
+        <br>Maharashtra, <strong>India</strong>
         <br>
-        <strong>India</strong>
       </p>
       """
 
