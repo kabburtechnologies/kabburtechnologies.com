@@ -1,13 +1,13 @@
 /* Themed colors */
 :root {
-  --primary-accent: #242582;
-  --navbar-border-top: #553D67;
+  --primary-accent: #0b9de3;
+  --navbar-border-top: #F64C72;
   --button-border: #F64C72;
-  --link-focus: #2F2FA2;
+  --link-focus: #41c1e7;
   --form-shadow: rgba(56, 167, 187, 0.6);
   --pagination-bg: #a7dbe5;
   --link-hover-bg: #99738E;
-  --navbar-focus: #2F2FA2 ;
+  --navbar-focus: #41c1e7 ;
 }
 
 .clearfix:before,
