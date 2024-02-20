@@ -555,7 +555,7 @@ ul.list-style-none {
 .btn-template-main {
   color: var(--primary-accent);
   background-color: #ffffff;
-  border-color: var(--primary-accent);
+  border-color: var(--button-border);
 }
 .btn-template-main:hover,
 .btn-template-main:focus,
@@ -2951,10 +2951,10 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .navbar-brand {
   float: left;
-  padding: 10px 15px;
+  padding: 5px 15px;
   font-size: 18px;
   line-height: 20px;
-  height: 62px;
+  height: 75px;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
@@ -2968,6 +2968,10 @@ fieldset[disabled] .btn-template-primary.active {
   .navbar > .container-fluid .navbar-brand {
     margin-left: -15px;
   }
+
+  .navbar-brand {
+    height: 65px;
+  }
 }
 .navbar-toggle {
   position: relative;
@@ -2976,7 +2980,7 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 9px 10px;
   margin-top: 14px;
   margin-bottom: 14px;
-  background-color: transparent;
+  background-color: var(--button-border);
   background-image: none;
   border: 1px solid transparent;
   border-radius: 0;
@@ -3003,6 +3007,9 @@ fieldset[disabled] .btn-template-primary.active {
   .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-nav .open .dropdown-menu > li > a:focus {
     background-image: none;
+  }
+    .navbar-brand {
+    height: 65px;
   }
 }
 @media (min-width: 768px) {
