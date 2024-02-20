@@ -161,7 +161,7 @@ pluralizelisttitles = false
 
 [permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
-    projects = "/projects/:year/:month/:day/:filename/"
+    services = "/services/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
@@ -219,7 +219,7 @@ pluralizelisttitles = false
     icon = "far fa-file-alt"
     title = "Do you want to know more about us?"
     subtitle = "We have developed more than 40 projects."
-    link_url = "/projects"
+    link_url = "/services"
     link_text = "Check our projects"
 
 [params.clients]
