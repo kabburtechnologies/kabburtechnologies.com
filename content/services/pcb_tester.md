@@ -2,7 +2,7 @@
 title = "PCB Tester"
 date = "2023-09-01T21:29:20+02:00"
 tags = ["golang", "programming", "theme", "hugo"]
-categories = ["programming","lorem","pseudo"]
+categories = ["hardware"]
 banner = "img/projects/pcb_tester.jpeg"
 authors = ["Chetan"]
 +++

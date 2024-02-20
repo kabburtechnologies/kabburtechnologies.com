@@ -2,7 +2,7 @@
 title = "Spraying Vehicle for Farming"
 date = "2023-12-01T21:29:20+02:00"
 tags = ["golang", "programming", "theme", "hugo"]
-categories = ["programming","lorem","pseudo"]
+categories = ["hardware"]
 banner = "img/projects/bg/spraying_vehicle.png"
 authors = ["Chetan"]
 +++

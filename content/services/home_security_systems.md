@@ -2,7 +2,7 @@
 title = "Home Security System"
 date = "2023-10-01T21:29:20+02:00"
 tags = ["golang", "programming", "theme", "hugo"]
-categories = ["programming","lorem","pseudo"]
+categories = ["hardware"]
 banner = "img/projects/bg/home_security_systems.png"
 authors = ["Chetan"]
 +++

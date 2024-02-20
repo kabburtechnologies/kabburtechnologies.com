@@ -30,9 +30,9 @@ pluralizelisttitles = false
     weight     = 1
 
 [[menu.main]]
-    name       = "Projects"
-    identifier = "menu.projects"
-    url        = "/projects/"
+    name       = "Services"
+    identifier = "menu.services"
+    url        = "/services/"
     weight     = 3
 
 
@@ -85,7 +85,7 @@ pluralizelisttitles = false
     viewMorePostLink = "/blog/"
     author = "Kabbur Technologies"
     defaultKeywords = ["Kabbur Technologies", "IOT", "python"]
-    mainSections = ["projects", "blog"]
+    mainSections = ["projects", "blog", "services"]
     defaultDescription = "We build future."
 
     # Social media
