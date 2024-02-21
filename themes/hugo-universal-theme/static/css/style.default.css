@@ -2980,7 +2980,7 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 9px 10px;
   margin-top: 14px;
   margin-bottom: 14px;
-  background-color: var(--button-border);
+  background-color: #FFFFFF;
   background-image: none;
   border: 1px solid transparent;
   border-radius: 0;
